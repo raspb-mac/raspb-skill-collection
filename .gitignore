@@ -51,3 +51,6 @@ notion/
 
 # Research (can be regenerated)
 research/
+skills/youtube-transcriber/scripts/ffmpeg
+skills/youtube-transcriber/scripts/yt-dlp
+skills/youtube-transcriber/scripts/youtube_cookies.txt
