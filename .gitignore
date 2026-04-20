@@ -1,0 +1,53 @@
+# Secrets & Credentials
+.secrets/
+**/*token*.json
+**/*credential*.json
+**/*secret*
+*.env
+*.key
+.pi/
+
+# Google OAuth
+skills/google/google_token.json
+skills/google/google_credentials.json
+
+# Node modules
+**/node_modules/
+
+# Python
+**/__pycache__/
+**/*.pyc
+**/.whisper-env/
+**/*.egg-info/
+
+# Build artifacts
+**/.svelte-kit/
+**/build/
+**/dist/
+
+# OS & editor
+.DS_Store
+*.log
+.vscode/
+.idea/
+
+# Workspace state
+.openclaw/
+state/
+
+# Large media / downloads
+transfers/downloads/
+transfers/showcase/
+working/
+
+# Memory (private session logs)
+memory/
+
+# Repos (separate git repos, not subrepos here)
+repos/
+
+# Notion cache
+notion/
+
+# Research (can be regenerated)
+research/
